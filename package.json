@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "一些日常学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastShine/javascript.git"
+  },
+  "author": "huangqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LastShine/javascript/issues"
+  },
+  "homepage": "https://github.com/LastShine/javascript#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5",
+    "lodash": "^4.17.4"
+  }
+}
